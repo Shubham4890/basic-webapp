@@ -9,7 +9,7 @@
 <body>
 <h1>HELLo</h1>
 <a href="javaApp.jsp"> Java page</a>
-<a href="login.jsp"> Java page</a>
+<a href="login.jsp"> login page</a>
 <h2>Deployment Testing if jenkins</h2>
 </body>
 </html>
