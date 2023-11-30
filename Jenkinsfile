@@ -25,13 +25,4 @@ pipeline
 		}
 	}
 }
-
-        post
-        {
-        always
-        { 
-emailext body: 'Summary', subject: 'Pipe Line status', to: 'shubham.sharma@trangile.com'
-}
-    }
-
 }
